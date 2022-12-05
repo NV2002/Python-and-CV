@@ -1,6 +1,6 @@
 # Python-and-CV
 Replace green screen of a video by an image using Python and Computer Vision
- ## Tools and Technology used
+ ## Tools and Technology
  - Code editor
  - Python (Libraries: numpy, cv2)
 
